@@ -1,2 +1,7 @@
 hi
+<<<<<<< HEAD
 this is a test
+=======
+this is a test from dev2
+>>>>>>> 65adc72c5ee5ccba28d17734066ff8b1f898d321
+merge rectified
